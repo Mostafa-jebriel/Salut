@@ -7,7 +7,7 @@
 * Google Play </p>https://play.google.com/store/apps/details?id=com.salutme.salut&hl=ar
 </p>
 
-* Apple Store </p>Soon
+* Apple Store </p>https://apps.apple.com/eg/app/salutme/id6446495528
 </p>
 
 * Behance </p> https://www.behance.net/gallery/167142079/Salut-App
